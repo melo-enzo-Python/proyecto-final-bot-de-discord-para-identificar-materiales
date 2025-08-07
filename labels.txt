@@ -1,0 +1,8 @@
+0 beaker
+1 Erlenmeyer Flask
+2 graduated cylinder
+3 test tube
+4 pipette
+5 petri dish
+6 spatula
+7 bunson burner
